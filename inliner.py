@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # inliner - converts reference-style Markdown endnotes to
 # Pandoc Markdown's inline footnotes
 
 # by Louis Goddard <louisgoddard@gmail.com>
 
-# Usage: python inliner.py [input.markdown] [output.markdown]
+# Usage: python2 inliner.py [input.markdown] [output.markdown]
 
 import sys
 
